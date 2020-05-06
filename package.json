@@ -1,0 +1,19 @@
+{
+  "name": "odco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\" "
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imanealm/odco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imanealm/odco/issues"
+  },
+  "homepage": "https://github.com/imanealm/odco#readme"
+}
