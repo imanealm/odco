@@ -8,12 +8,12 @@
     },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imanealm/odco.git"
+    "url": "git+https://github.com/odco/odco.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imanealm/odco/issues"
+    "url": "https://github.com/odco/odco/issues"
   },
-  "homepage": "https://github.com/imanealm/odco#readme"
+  "homepage": "https://github.com/odco/odco#readme"
 }
