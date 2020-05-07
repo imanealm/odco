@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\" "
-    },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/odco/odco.git"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/odco/odco/issues"
   },
-  "homepage": "https://github.com/odco/odco#readme"
+  "homepage": "https://github.com/odco/odco#readme",
+  "dependencies": {
+    "is-empty": "^1.2.0"
+  }
 }
